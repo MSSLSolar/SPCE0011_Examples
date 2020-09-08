@@ -32,7 +32,7 @@ We begin by finding a CME which:
 
 If we look at September of 2011 on the [LASCO CME catalogue](https://cdaw.gsfc.nasa.gov/CME_list/), we find a number of results that look like the following:
 
-![LASCO CME Catalogue Result](../imageResources/Exercise_1/LASCO_CME_Catalogue_Results.png)
+![LASCO CME Catalogue Result](imageResources/Exercise_2/LASCO_CME_Catalogue_Results.png)
 
 We discourage the use of any event that is qualified as "poor", but otherwise any CME should work for our purposes.
 
@@ -44,7 +44,7 @@ In the example from 13 September, through visual inspection of the Video file, w
 
 Now go to the [StereoCAT Website](https://ccmc.gsfc.nasa.gov/stereocat/), where the following overlay will be shown:
 
-![StereoCAT Website Main page](../imageResources/Exercise_1/StereoCAT_base.png)
+![StereoCAT Website Main page](imageResources/Exercise_2/StereoCAT_base.png)
 
 This is a complicated layout, so we will go one step at a time.
 
@@ -53,12 +53,12 @@ This is a complicated layout, so we will go one step at a time.
 3. Now move the bottom date into the future using the right arrow.
 4. To flick through available images, we use the image in the middle, which is from SOHO. We press the right arrow on the top middle figure, and find a time where the CME can be clearly observed. To propagate this time downwards, we use the curved arrow down.
 5. We now use the same procedure on the bottom plot. Find a time *after* the time shown at the top, where the CME can clearly be seen, and use the curved arrow up to propagate this information to the analysis start and end times.
-6. Check that you have something similar to the following image: ![Selected date and time for CME evolution](../imageResources/Exercise_1/SteroCAT_found.png) As you can see, we start at 14:35 and end at 18:00.
+6. Check that you have something similar to the following image: ![Selected date and time for CME evolution](imageResources/Exercise_2/SteroCAT_found.png) As you can see, we start at 14:35 and end at 18:00.
 7. On the middle banner, click on spacecraft which you want to use. Here we will use SOHO exclusively. Spacecraft are selected when the button appears shaded
 8. On the top of the page, click "Measurement"
-9. Now use the different hollow circles to fit the arc shape to the CME at the two stages. Try to have the middle line across the direction of propagation of the event. Below, we show a solved example ![Solved Example](../imageResources/Exercise_1/StereoCAT_Fitting.png)
+9. Now use the different hollow circles to fit the arc shape to the CME at the two stages. Try to have the middle line across the direction of propagation of the event. Below, we show a solved example ![Solved Example](imageResources/Exercise_2/StereoCAT_Fitting.png)
 Where we constrain the shape to the edge of more dense plasma, e.g, the CME front.
-10. Finally, on the top right of the page, press "Results". You should get a reasonable linear velocity. ![StereoCAT CME Results](../imageResources/Exercise_1/StereoCAT_Results.png)
+10. Finally, on the top right of the page, press "Results". You should get a reasonable linear velocity. ![StereoCAT CME Results](imageResources/Exercise_2/StereoCAT_Results.png)
 
 _Note: f the speed is too unrealistic (significantly different from the speeds found in LASCO CME catalogue), modify the shapes that you are fitting to more closely resemble the CME_
 

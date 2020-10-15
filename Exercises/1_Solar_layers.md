@@ -4,6 +4,7 @@ In this Exercise, we will:
   
 ## Resources
 - [Jhelioviewer](http://www.jhelioviewer.org/)
+- [Docs](http://swhv.oma.be/user_manual/)
 
 ## Usage of Jhelioviewer
 

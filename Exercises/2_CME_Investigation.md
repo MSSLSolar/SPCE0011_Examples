@@ -6,7 +6,7 @@ In this Exercise, we will:
 ## Resources
 
 ### CME Catalogues
-- [CACTUs CME Catalogue](http://sidc.oma.be/cactus/catalog.php) Automatic CME Detection
+- [CACTUS CME Catalogue](http://sidc.oma.be/cactus/catalog.php) Automatic CME Detection
 
 - [LASCO CME Catalogue](https://cdaw.gsfc.nasa.gov/CME_list/) Manual CME Detection
 

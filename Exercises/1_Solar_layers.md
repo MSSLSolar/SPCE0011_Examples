@@ -5,7 +5,10 @@ In this Exercise, we will:
 ## Resources
 - [Jhelioviewer](http://www.jhelioviewer.org/)
 - [Docs](http://swhv.oma.be/user_manual/)
+- A video of Usage is available on the Moodle Page.
 
 ## Usage of Jhelioviewer
+1. Download JHelioviewer from its page.
+2. Ensure that you have set it up correctly, as explained in the Installation Instructions.
+3. Watch the Video to learn about the user Interface.
 
-### Initial date / time setup

@@ -5,7 +5,7 @@ Set of Python examples for Solar Physics Module (UCL)
 + Example 2: Investigating CME propagation Speeds
 + Example 3: Using a simple magnetic field model to find footpoints of Parker Solar Probe (Python)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MSSLSolar/SPCE0011_Examples/HEAD?filepath=https%3A%2F%2Fgithub.com%2FMSSLSolar%2FSPCE0011_Examples%2Fblob%2Fmaster%2FExercises%2F3_PFSS_Derivation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MSSLSolar/SPCE0011_Examples/1334c5442f1fd5616a0c8948bd46895292db47c1)
 
 <!-- # Local Installation (Useful if Internet Connection unstable)
 1. Install Anaconda, a Python and Data Science package manager 

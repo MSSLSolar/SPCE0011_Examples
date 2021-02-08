@@ -7,17 +7,3 @@ Set of Python examples for Solar Physics Module (UCL)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MSSLSolar/SPCE0011_Examples/1334c5442f1fd5616a0c8948bd46895292db47c1)
 
-<!-- # Local Installation (Useful if Internet Connection unstable)
-1. Install Anaconda, a Python and Data Science package manager 
-https://www.anaconda.com/products/individual
-
-2. Use the environment.yml file to install relevant packages:
-  - Open a terminal (Different for Mac (terminal), Linux (bash), Windows (anaconda terminal))
-  - Generate relevant environment: conda env create solarphysics
-  - Install environment.yml file: conda env update -n solarphysics --file environment.yml
-  - Activate environment.yml file: conda activate solarphysics
-  - Open jupyter notebook: jupyter notebook
-  - Navigate to folder where you
-  
-3. Open the Notebook in Jupyter, either from the Anaconda GUI (Windows, MAC), or from the Anaconda Prompt:
-jupyter notebook Notebookfile.ipynb  -->

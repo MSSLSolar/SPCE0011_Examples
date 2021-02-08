@@ -201,6 +201,7 @@ dependencies:
   - tbb=2020.1
   - terminado=0.8.3
   - testpath=0.4.4
+  - tifffile=2020.7.24
   - tiledb=2.0.8
   - tk=8.6.10
   - toml=0.10.1
@@ -265,4 +266,3 @@ dependencies:
       - sphinxcontrib-serializinghtml==1.1.4
       - spiceypy==4.0.0
       - streamtracer==1.0.0
-prefix: /home/diegodp/anaconda3/envs/solarphysics
